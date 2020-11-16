@@ -1,1 +1,2 @@
 thunderbolt
+hey I just changed the remote  URL using git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
