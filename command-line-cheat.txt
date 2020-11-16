@@ -1,0 +1,5 @@
+rm -r <name-of-dir> remove (recursively) folder and everything init
+rm -rf <name-of-dir> DANGER, recursively remove contents without checking to delete sub-folders
+man ls list all flags available to ls
+ls -a list all contents inc hidden
+ls -l list all content along with info
